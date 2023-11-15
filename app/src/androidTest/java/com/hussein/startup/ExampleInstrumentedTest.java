@@ -1,4 +1,4 @@
-package com.hussein.startup;
+package com.tareq.startup;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hussein.startup", appContext.getPackageName());
+        assertEquals("com.tareq.startup", appContext.getPackageName());
     }
 }
